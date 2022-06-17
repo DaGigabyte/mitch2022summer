@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # coding:utf-8
+#Make CSV from Serial by Jasper 17/06/2022
 
-from datetime import datetime
-import re
 import serial
 
 ## Serial setting
